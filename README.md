@@ -1,1 +1,1 @@
-# Meow-recipes
+This is a recipe for Thai seafood sauce. The objective of this project is to learn the basic format of HTML and basic knowledge of how to use git and push it to repository.
